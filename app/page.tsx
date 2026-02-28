@@ -6,7 +6,6 @@ import ClockHeader from "@/components/Clockheader";
 import SpotWall from "@/components/Spotwall";
 import FloatingMenu from "@/components/FloatingMenu";
 import Encouragement from "@/components/Encouragement";
-import StatsChart from "@/components/Statschart";
 import WeekStats from "@/components/Weekstats";
 import MonthStats from "@/components/Monthstats";
 import YearStats from "@/components/Yearstats";
